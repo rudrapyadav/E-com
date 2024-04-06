@@ -1,1 +1,1 @@
-# E-com
+ReactJs,telwindCss,firebase,Redux
